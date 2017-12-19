@@ -1,0 +1,11 @@
+/Users/viniciustode/Projects/DocApi/DocApi/bin/Debug/netcoreapp1.1/DocApi.deps.json
+/Users/viniciustode/Projects/DocApi/DocApi/bin/Debug/netcoreapp1.1/DocApi.runtimeconfig.json
+/Users/viniciustode/Projects/DocApi/DocApi/bin/Debug/netcoreapp1.1/DocApi.runtimeconfig.dev.json
+/Users/viniciustode/Projects/DocApi/DocApi/bin/Debug/netcoreapp1.1/DocApi.dll
+/Users/viniciustode/Projects/DocApi/DocApi/bin/Debug/netcoreapp1.1/DocApi.pdb
+/Users/viniciustode/Projects/DocApi/DocApi/obj/Debug/netcoreapp1.1/DocApi.csprojResolveAssemblyReference.cache
+/Users/viniciustode/Projects/DocApi/DocApi/obj/Debug/netcoreapp1.1/DocApi.csproj.CoreCompileInputs.cache
+/Users/viniciustode/Projects/DocApi/DocApi/obj/Debug/netcoreapp1.1/DocApi.AssemblyInfo.cs
+/Users/viniciustode/Projects/DocApi/DocApi/obj/Debug/netcoreapp1.1/DocApi.dll
+/Users/viniciustode/Projects/DocApi/DocApi/obj/Debug/netcoreapp1.1/DocApi.pdb
+/Users/viniciustode/Projects/DocApi/DocApi/obj/Debug/netcoreapp1.1/DocApi.AssemblyInfoInputs.cache
